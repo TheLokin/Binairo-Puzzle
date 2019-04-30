@@ -14,8 +14,8 @@ configuration provides some cell values and the rest must be filled with circles
 An example of initial configuration and the corresponding solution can be seen below. 
 
 <div align="center">
-  <img alt="Figure 1" src="img/figure1.jpg"/>
-  <img alt="Figure 2" src="img/figure2.jpg"/>
+  <img alt="Figure 1" src="img/figure1.png"/>
+  <img alt="Figure 2" src="img/figure2.png"/>
 </div>
 
 ## Implementation
